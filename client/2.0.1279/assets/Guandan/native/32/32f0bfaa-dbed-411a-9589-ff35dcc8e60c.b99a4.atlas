@@ -1,0 +1,13 @@
+
+naozhong.png
+size: 100,94
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+倒计时
+  rotate: false
+  xy: 2, 2
+  size: 96, 90
+  orig: 100, 93
+  offset: 2, 2
+  index: -1

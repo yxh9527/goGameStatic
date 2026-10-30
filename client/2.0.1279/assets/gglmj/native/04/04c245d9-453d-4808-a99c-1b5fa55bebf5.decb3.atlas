@@ -1,0 +1,104 @@
+
+guakai.png
+size: 1798,148
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dust
+  rotate: false
+  xy: 1766, 106
+  size: 30, 40
+  orig: 30, 40
+  offset: 0, 0
+  index: -1
+guakai_00000
+  rotate: true
+  xy: 2, 6
+  size: 140, 195
+  orig: 144, 195
+  offset: 2, 0
+  index: -1
+guakai_00001
+  rotate: true
+  xy: 199, 6
+  size: 140, 195
+  orig: 144, 195
+  offset: 2, 0
+  index: -1
+guakai_00002
+  rotate: true
+  xy: 396, 6
+  size: 140, 195
+  orig: 144, 195
+  offset: 2, 0
+  index: -1
+guakai_00003
+  rotate: true
+  xy: 593, 6
+  size: 140, 195
+  orig: 144, 195
+  offset: 2, 0
+  index: -1
+guakai_00004
+  rotate: true
+  xy: 790, 6
+  size: 140, 163
+  orig: 144, 195
+  offset: 2, 0
+  index: -1
+guakai_00005
+  rotate: true
+  xy: 955, 6
+  size: 140, 158
+  orig: 144, 195
+  offset: 2, 0
+  index: -1
+guakai_00006
+  rotate: false
+  xy: 1115, 2
+  size: 140, 144
+  orig: 144, 195
+  offset: 2, 0
+  index: -1
+guakai_00007
+  rotate: false
+  xy: 1257, 2
+  size: 140, 144
+  orig: 144, 195
+  offset: 2, 0
+  index: -1
+guakai_00008
+  rotate: false
+  xy: 1399, 2
+  size: 140, 144
+  orig: 144, 195
+  offset: 2, 0
+  index: -1
+guakai_00009
+  rotate: true
+  xy: 1541, 6
+  size: 140, 79
+  orig: 144, 195
+  offset: 2, 0
+  index: -1
+guakai_00010
+  rotate: true
+  xy: 1622, 6
+  size: 140, 70
+  orig: 144, 195
+  offset: 2, 0
+  index: -1
+guakai_00011
+  rotate: true
+  xy: 1694, 6
+  size: 140, 70
+  orig: 144, 195
+  offset: 2, 0
+  index: -1
+guakai_00012
+  rotate: true
+  xy: 1766, 58
+  size: 46, 23
+  orig: 144, 195
+  offset: 96, 0
+  index: -1

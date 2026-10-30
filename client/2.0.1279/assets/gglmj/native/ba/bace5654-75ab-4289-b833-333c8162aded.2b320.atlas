@@ -1,0 +1,48 @@
+
+infoboard.png
+size: 847,269
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dian
+  rotate: false
+  xy: 819, 129
+  size: 26, 26
+  orig: 30, 30
+  offset: 2, 2
+  index: -1
+glow
+  rotate: false
+  xy: 717, 2
+  size: 100, 97
+  orig: 100, 100
+  offset: 0, 3
+  index: -1
+glowd
+  rotate: false
+  xy: 778, 157
+  size: 63, 110
+  orig: 67, 128
+  offset: 0, 11
+  index: -1
+infoboard_a
+  rotate: false
+  xy: 2, 9
+  size: 713, 90
+  orig: 713, 91
+  offset: 0, 1
+  index: -1
+infoboard_ak
+  rotate: false
+  xy: 2, 101
+  size: 774, 166
+  orig: 800, 200
+  offset: 13, 22
+  index: -1
+jinbig
+  rotate: false
+  xy: 778, 115
+  size: 39, 40
+  orig: 40, 40
+  offset: 1, 0
+  index: -1

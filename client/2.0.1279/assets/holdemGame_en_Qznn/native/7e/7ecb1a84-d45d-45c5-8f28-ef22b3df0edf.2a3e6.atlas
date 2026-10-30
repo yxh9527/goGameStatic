@@ -1,0 +1,83 @@
+
+zhuangjia.png
+size: 38,714
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zhuangjia_EN
+  rotate: true
+  xy: 2, 581
+  size: 131, 34
+  orig: 131, 34
+  offset: 0, 0
+  index: -1
+zhuangjia_EN00001
+  rotate: true
+  xy: 2, 68
+  size: 31, 34
+  orig: 131, 34
+  offset: 0, 0
+  index: -1
+zhuangjia_EN00002
+  rotate: true
+  xy: 2, 209
+  size: 67, 34
+  orig: 131, 34
+  offset: 0, 0
+  index: -1
+zhuangjia_EN00003
+  rotate: true
+  xy: 2, 364
+  size: 102, 34
+  orig: 131, 34
+  offset: 0, 0
+  index: -1
+zhuangjia_EN00004
+  rotate: true
+  xy: 2, 468
+  size: 111, 34
+  orig: 131, 34
+  offset: 20, 0
+  index: -1
+zhuangjia_EN00005
+  rotate: true
+  xy: 2, 278
+  size: 84, 34
+  orig: 131, 34
+  offset: 47, 0
+  index: -1
+zhuangjia_EN00006
+  rotate: true
+  xy: 2, 146
+  size: 61, 34
+  orig: 131, 34
+  offset: 70, 0
+  index: -1
+zhuangjia_EN00007
+  rotate: true
+  xy: 2, 101
+  size: 43, 34
+  orig: 131, 34
+  offset: 88, 0
+  index: -1
+zhuangjia_EN00008
+  rotate: true
+  xy: 2, 37
+  size: 29, 34
+  orig: 131, 34
+  offset: 102, 0
+  index: -1
+zhuangjia_EN00009
+  rotate: true
+  xy: 2, 16
+  size: 19, 30
+  orig: 131, 34
+  offset: 112, 0
+  index: -1
+zhuangjia_EN00010
+  rotate: true
+  xy: 2, 2
+  size: 12, 18
+  orig: 131, 34
+  offset: 119, 0
+  index: -1

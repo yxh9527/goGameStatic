@@ -1,0 +1,27 @@
+
+guangk.png
+size: 852,734
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dian
+  rotate: false
+  xy: 796, 648
+  size: 26, 26
+  orig: 30, 30
+  offset: 2, 2
+  index: -1
+guangk
+  rotate: false
+  xy: 2, 2
+  size: 792, 730
+  orig: 801, 739
+  offset: 4, 5
+  index: -1
+xingg
+  rotate: true
+  xy: 796, 676
+  size: 56, 54
+  orig: 71, 71
+  offset: 7, 9
+  index: -1

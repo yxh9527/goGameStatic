@@ -1,0 +1,20 @@
+
+huxi.png
+size: 88,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pai
+  rotate: false
+  xy: 2, 2
+  size: 41, 60
+  orig: 41, 60
+  offset: 0, 0
+  index: -1
+pai_00000
+  rotate: false
+  xy: 45, 2
+  size: 41, 60
+  orig: 41, 60
+  offset: 0, 0
+  index: -1

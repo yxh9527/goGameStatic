@@ -1,0 +1,48 @@
+
+iconB.png
+size: 586,454
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gaungq2
+  rotate: false
+  xy: 357, 229
+  size: 223, 223
+  orig: 224, 224
+  offset: 0, 1
+  index: -1
+guangx2
+  rotate: false
+  xy: 2, 23
+  size: 137, 130
+  orig: 150, 150
+  offset: 7, 8
+  index: -1
+liew
+  rotate: false
+  xy: 141, 11
+  size: 47, 142
+  orig: 49, 154
+  offset: 1, 12
+  index: -1
+tb_fa
+  rotate: false
+  xy: 2, 155
+  size: 353, 297
+  orig: 355, 300
+  offset: 1, 2
+  index: -1
+tb_fa dian
+  rotate: false
+  xy: 572, 215
+  size: 12, 12
+  orig: 13, 13
+  offset: 0, 1
+  index: -1
+zhakai2
+  rotate: true
+  xy: 357, 2
+  size: 225, 213
+  orig: 260, 260
+  offset: 20, 23
+  index: -1

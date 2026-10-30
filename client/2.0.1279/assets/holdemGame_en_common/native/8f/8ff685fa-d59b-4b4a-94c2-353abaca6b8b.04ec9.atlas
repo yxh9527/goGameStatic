@@ -1,0 +1,27 @@
+
+pingju.png
+size: 1460,120
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pingju_EN
+  rotate: false
+  xy: 1, 6
+  size: 81, 49
+  orig: 83, 50
+  offset: 1, 1
+  index: -1
+tiao pingju a
+  rotate: false
+  xy: 962, 1
+  size: 495, 116
+  orig: 1000, 122
+  offset: 267, 3
+  index: -1
+tiao pingju b
+  rotate: false
+  xy: 1, 57
+  size: 959, 60
+  orig: 984, 60
+  offset: 11, 0
+  index: -1

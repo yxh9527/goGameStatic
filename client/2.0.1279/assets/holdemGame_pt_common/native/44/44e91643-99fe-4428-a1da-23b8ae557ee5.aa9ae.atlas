@@ -1,0 +1,97 @@
+
+xybj.png
+size: 1951,1278
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huo_00007
+  rotate: false
+  xy: 1455, 698
+  size: 180, 191
+  orig: 200, 197
+  offset: 0, 3
+  index: -1
+huo_00008
+  rotate: true
+  xy: 1642, 988
+  size: 288, 295
+  orig: 310, 306
+  offset: 7, 8
+  index: -1
+huo_00009
+  rotate: true
+  xy: 1573, 8
+  size: 310, 308
+  orig: 330, 325
+  offset: 9, 12
+  index: -1
+huo_00010
+  rotate: false
+  xy: 1573, 320
+  size: 376, 376
+  orig: 400, 395
+  offset: 14, 13
+  index: -1
+huo_00011
+  rotate: false
+  xy: 1110, 163
+  size: 461, 461
+  orig: 480, 474
+  offset: 12, 13
+  index: -1
+huo_00012
+  rotate: true
+  xy: 595, 40
+  size: 529, 513
+  orig: 550, 543
+  offset: 13, 25
+  index: -1
+huo_00013
+  rotate: false
+  xy: 2, 7
+  size: 591, 562
+  orig: 600, 592
+  offset: 4, 25
+  index: -1
+huo_00014
+  rotate: true
+  xy: 645, 626
+  size: 650, 608
+  orig: 750, 740
+  offset: 49, 75
+  index: -1
+huo_00015
+  rotate: true
+  xy: 2, 571
+  size: 705, 641
+  orig: 750, 740
+  offset: 12, 61
+  index: -1
+光晕2
+  rotate: false
+  xy: 1255, 891
+  size: 385, 385
+  orig: 403, 403
+  offset: 9, 9
+  index: -1
+幸运暴击2 2
+  rotate: false
+  xy: 1110, 2
+  size: 190, 159
+  orig: 215, 180
+  offset: 15, 11
+  index: -1
+筹码2
+  rotate: false
+  xy: 1255, 691
+  size: 198, 198
+  orig: 198, 198
+  offset: 0, 0
+  index: -1
+转光2
+  rotate: false
+  xy: 1642, 709
+  size: 274, 277
+  orig: 283, 292
+  offset: 1, 8
+  index: -1

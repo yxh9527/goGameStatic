@@ -1,0 +1,20 @@
+
+you.png
+size: 498,110
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+you1
+  rotate: false
+  xy: 2, 2
+  size: 246, 106
+  orig: 256, 111
+  offset: 5, 4
+  index: -1
+you2
+  rotate: false
+  xy: 250, 2
+  size: 246, 106
+  orig: 256, 111
+  offset: 5, 4
+  index: -1

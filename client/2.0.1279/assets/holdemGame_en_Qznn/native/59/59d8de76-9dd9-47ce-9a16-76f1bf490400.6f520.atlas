@@ -1,0 +1,83 @@
+
+zhuang.png
+size: 1270,609
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zhuangD_00001
+  rotate: true
+  xy: 605, 16
+  size: 282, 268
+  orig: 292, 281
+  offset: 6, 6
+  index: -1
+zhuangD_00002
+  rotate: false
+  xy: 310, 8
+  size: 293, 290
+  orig: 304, 304
+  offset: 7, 6
+  index: -1
+zhuangD_00003
+  rotate: true
+  xy: 2, 2
+  size: 297, 306
+  orig: 308, 322
+  offset: 5, 8
+  index: -1
+zhuangD_00004
+  rotate: true
+  xy: 947, 314
+  size: 293, 313
+  orig: 308, 329
+  offset: 10, 7
+  index: -1
+zhuangD_00005
+  rotate: true
+  xy: 632, 313
+  size: 294, 313
+  orig: 309, 328
+  offset: 11, 7
+  index: -1
+zhuangD_00006
+  rotate: true
+  xy: 319, 300
+  size: 307, 311
+  orig: 313, 321
+  offset: 3, 7
+  index: -1
+zhuangD_00007
+  rotate: false
+  xy: 2, 301
+  size: 315, 306
+  orig: 321, 315
+  offset: 3, 6
+  index: -1
+zhuangD_00008
+  rotate: false
+  xy: 875, 86
+  size: 211, 225
+  orig: 229, 244
+  offset: 13, 12
+  index: -1
+zhuangD_00009
+  rotate: false
+  xy: 1088, 126
+  size: 180, 186
+  orig: 194, 207
+  offset: 8, 14
+  index: -1
+zhuangD_00010
+  rotate: true
+  xy: 875, 31
+  size: 53, 73
+  orig: 59, 80
+  offset: 3, 2
+  index: -1
+zhuangD_00011
+  rotate: false
+  xy: 950, 36
+  size: 52, 48
+  orig: 54, 51
+  offset: 1, 2
+  index: -1

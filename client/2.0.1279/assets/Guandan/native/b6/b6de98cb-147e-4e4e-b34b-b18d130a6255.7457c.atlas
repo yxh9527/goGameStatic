@@ -1,0 +1,34 @@
+
+gangban.png
+size: 372,416
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gangban
+  rotate: true
+  xy: 219, 154
+  size: 260, 127
+  orig: 261, 127
+  offset: 1, 0
+  index: -1
+guangqiu_00000
+  rotate: false
+  xy: 1, 38
+  size: 180, 180
+  orig: 192, 192
+  offset: 6, 6
+  index: -1
+guangyuan_00000
+  rotate: false
+  xy: 183, 1
+  size: 186, 151
+  orig: 186, 156
+  offset: 0, 5
+  index: -1
+zhuizi
+  rotate: true
+  xy: 1, 220
+  size: 194, 216
+  orig: 194, 216
+  offset: 0, 0
+  index: -1

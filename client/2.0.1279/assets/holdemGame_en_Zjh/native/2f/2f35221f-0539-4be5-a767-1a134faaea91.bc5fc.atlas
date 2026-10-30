@@ -1,0 +1,27 @@
+
+bpsb.png
+size: 176,132
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bpsb di
+  rotate: false
+  xy: 1, 69
+  size: 165, 61
+  orig: 165, 62
+  offset: 0, 0
+  index: -1
+bpsb_CN
+  rotate: false
+  xy: 1, 1
+  size: 114, 32
+  orig: 115, 33
+  offset: 0, 1
+  index: -1
+bpsb_EN
+  rotate: false
+  xy: 1, 35
+  size: 173, 32
+  orig: 173, 32
+  offset: 0, 0
+  index: -1

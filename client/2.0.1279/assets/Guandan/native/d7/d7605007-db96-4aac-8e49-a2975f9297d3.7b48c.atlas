@@ -1,0 +1,153 @@
+
+shun.png
+size: 604,1020
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FanChuan
+  rotate: false
+  xy: 1, 624
+  size: 397, 392
+  orig: 397, 392
+  offset: 0, 0
+  index: -1
+FanChuan_a
+  rotate: false
+  xy: 1, 2
+  size: 306, 345
+  orig: 306, 345
+  offset: 0, 0
+  index: -1
+hua
+  rotate: false
+  xy: 1, 349
+  size: 385, 273
+  orig: 385, 273
+  offset: 0, 0
+  index: -1
+kuaiting_2shui_00
+  rotate: false
+  xy: 527, 241
+  size: 71, 30
+  orig: 71, 30
+  offset: 0, 0
+  index: -1
+kuaiting_2shui_02
+  rotate: true
+  xy: 309, 1
+  size: 131, 66
+  orig: 131, 66
+  offset: 0, 0
+  index: -1
+kuaiting_2shui_04
+  rotate: false
+  xy: 457, 122
+  size: 122, 88
+  orig: 122, 88
+  offset: 0, 0
+  index: -1
+kuaiting_2shui_06
+  rotate: true
+  xy: 489, 694
+  size: 123, 90
+  orig: 123, 90
+  offset: 0, 0
+  index: -1
+kuaiting_2shui_08
+  rotate: false
+  xy: 377, 30
+  size: 122, 90
+  orig: 122, 90
+  offset: 0, 0
+  index: -1
+kuaiting_2shui_10
+  rotate: true
+  xy: 400, 636
+  size: 104, 81
+  orig: 104, 81
+  offset: 0, 0
+  index: -1
+kuaiting_2shui_12
+  rotate: false
+  xy: 501, 55
+  size: 60, 65
+  orig: 60, 65
+  offset: 0, 0
+  index: -1
+kuaiting_2shui_14
+  rotate: false
+  xy: 388, 359
+  size: 54, 48
+  orig: 54, 48
+  offset: 0, 0
+  index: -1
+kuaiting_2shui_16
+  rotate: true
+  xy: 581, 783
+  size: 34, 22
+  orig: 34, 22
+  offset: 0, 0
+  index: -1
+kuaiting_shui_00
+  rotate: true
+  xy: 457, 212
+  size: 209, 68
+  orig: 209, 68
+  offset: 0, 0
+  index: -1
+kuaiting_shui_01
+  rotate: true
+  xy: 456, 423
+  size: 211, 61
+  orig: 211, 61
+  offset: 0, 0
+  index: -1
+kuaiting_shui_02
+  rotate: true
+  xy: 388, 409
+  size: 213, 66
+  orig: 213, 66
+  offset: 0, 0
+  index: -1
+kuaiting_shui_03
+  rotate: true
+  xy: 309, 134
+  size: 213, 72
+  orig: 213, 72
+  offset: 0, 0
+  index: -1
+kuaiting_shui_04
+  rotate: true
+  xy: 383, 135
+  size: 212, 72
+  orig: 212, 72
+  offset: 0, 0
+  index: -1
+kuaiting_shui_05
+  rotate: true
+  xy: 519, 483
+  size: 209, 72
+  orig: 209, 72
+  offset: 0, 0
+  index: -1
+kuaiting_shui_06
+  rotate: true
+  xy: 527, 273
+  size: 208, 73
+  orig: 208, 73
+  offset: 0, 0
+  index: -1
+text
+  rotate: true
+  xy: 400, 742
+  size: 274, 87
+  orig: 274, 87
+  offset: 0, 0
+  index: -1
+text shunzi
+  rotate: true
+  xy: 489, 819
+  size: 197, 98
+  orig: 215, 113
+  offset: 9, 5
+  index: -1

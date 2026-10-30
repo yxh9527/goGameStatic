@@ -1,0 +1,20 @@
+
+gxhd.png
+size: 303,105
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gxhd g_EN
+  rotate: false
+  xy: 2, 2
+  size: 291, 43
+  orig: 308, 74
+  offset: 7, 20
+  index: -1
+gxhd_EN
+  rotate: false
+  xy: 2, 47
+  size: 299, 56
+  orig: 308, 74
+  offset: 4, 7
+  index: -1

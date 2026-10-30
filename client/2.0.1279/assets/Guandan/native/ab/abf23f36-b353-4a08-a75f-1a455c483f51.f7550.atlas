@@ -1,0 +1,83 @@
+
+zhadan.png
+size: 748,540
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BaoZha01_06
+  rotate: false
+  xy: 508, 26
+  size: 199, 141
+  orig: 205, 150
+  offset: 0, 0
+  index: -1
+BaoZha01_07
+  rotate: false
+  xy: 250, 1
+  size: 256, 148
+  orig: 256, 152
+  offset: 0, 0
+  index: -1
+BaoZha01_08
+  rotate: false
+  xy: 250, 151
+  size: 256, 178
+  orig: 256, 178
+  offset: 0, 0
+  index: -1
+BaoZha01_09
+  rotate: false
+  xy: 1, 333
+  size: 255, 206
+  orig: 256, 207
+  offset: 1, 0
+  index: -1
+BaoZha01_10
+  rotate: false
+  xy: 258, 331
+  size: 243, 208
+  orig: 244, 208
+  offset: 0, 0
+  index: -1
+BaoZha01_11
+  rotate: false
+  xy: 1, 123
+  size: 247, 208
+  orig: 248, 208
+  offset: 1, 0
+  index: -1
+BaoZha01_12
+  rotate: false
+  xy: 503, 338
+  size: 239, 201
+  orig: 240, 201
+  offset: 0, 0
+  index: -1
+BaoZha01_13
+  rotate: false
+  xy: 508, 169
+  size: 237, 167
+  orig: 237, 169
+  offset: 0, 2
+  index: -1
+HuoHua
+  rotate: false
+  xy: 177, 68
+  size: 53, 53
+  orig: 53, 53
+  offset: 0, 0
+  index: -1
+yinxian
+  rotate: false
+  xy: 87, 39
+  size: 88, 82
+  orig: 88, 82
+  offset: 0, 0
+  index: -1
+zhadan_a
+  rotate: false
+  xy: 1, 26
+  size: 84, 95
+  orig: 84, 95
+  offset: 0, 0
+  index: -1

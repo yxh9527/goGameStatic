@@ -1,0 +1,55 @@
+
+icon.png
+size: 229,803
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gaungq
+  rotate: false
+  xy: 2, 578
+  size: 223, 223
+  orig: 224, 224
+  offset: 0, 1
+  index: -1
+glowd
+  rotate: false
+  xy: 141, 46
+  size: 63, 110
+  orig: 67, 128
+  offset: 0, 11
+  index: -1
+guangx
+  rotate: false
+  xy: 2, 26
+  size: 137, 130
+  orig: 150, 150
+  offset: 7, 8
+  index: -1
+jinbig
+  rotate: true
+  xy: 185, 5
+  size: 39, 40
+  orig: 40, 40
+  offset: 1, 0
+  index: -1
+tb_hu
+  rotate: true
+  xy: 2, 158
+  size: 203, 208
+  orig: 212, 213
+  offset: 5, 4
+  index: -1
+xg
+  rotate: false
+  xy: 141, 2
+  size: 42, 42
+  orig: 50, 50
+  offset: 4, 4
+  index: -1
+zhakai
+  rotate: false
+  xy: 2, 363
+  size: 225, 213
+  orig: 260, 260
+  offset: 20, 23
+  index: -1

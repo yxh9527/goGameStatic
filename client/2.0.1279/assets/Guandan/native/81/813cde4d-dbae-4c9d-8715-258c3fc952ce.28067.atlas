@@ -1,0 +1,97 @@
+
+dadaodan.png
+size: 1289,449
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BaoZha01_06
+  rotate: true
+  xy: 1018, 11
+  size: 198, 140
+  orig: 256, 256
+  offset: 18, 0
+  index: -1
+BaoZha01_07
+  rotate: true
+  xy: 869, 29
+  size: 256, 147
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+BaoZha01_08
+  rotate: false
+  xy: 372, 13
+  size: 256, 178
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+BaoZha01_09
+  rotate: true
+  xy: 174, 193
+  size: 254, 204
+  orig: 256, 256
+  offset: 2, 0
+  index: -1
+BaoZha01_10
+  rotate: true
+  xy: 590, 206
+  size: 241, 207
+  orig: 256, 256
+  offset: 3, 0
+  index: -1
+BaoZha01_11
+  rotate: true
+  xy: 380, 201
+  size: 246, 208
+  orig: 256, 256
+  offset: 3, 0
+  index: -1
+BaoZha01_12
+  rotate: false
+  xy: 630, 4
+  size: 237, 200
+  orig: 256, 256
+  offset: 3, 5
+  index: -1
+BaoZha01_13
+  rotate: true
+  xy: 1070, 211
+  size: 236, 166
+  orig: 256, 256
+  offset: 5, 41
+  index: -1
+DDZ_HuoJian_01
+  rotate: true
+  xy: 799, 287
+  size: 160, 269
+  orig: 163, 279
+  offset: 3, 10
+  index: -1
+huojian
+  rotate: false
+  xy: 2, 91
+  size: 170, 356
+  orig: 171, 356
+  offset: 0, 0
+  index: -1
+huojian_a
+  rotate: false
+  xy: 1160, 2
+  size: 127, 207
+  orig: 144, 215
+  offset: 1, 0
+  index: -1
+text
+  rotate: false
+  xy: 2, 2
+  size: 368, 87
+  orig: 368, 87
+  offset: 0, 0
+  index: -1
+text wangzha
+  rotate: false
+  xy: 174, 101
+  size: 186, 90
+  orig: 215, 113
+  offset: 12, 9
+  index: -1

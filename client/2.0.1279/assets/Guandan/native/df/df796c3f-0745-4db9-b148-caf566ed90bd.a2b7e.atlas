@@ -1,0 +1,69 @@
+
+jipai2.png
+size: 628,517
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jipai2
+  rotate: true
+  xy: 426, 156
+  size: 149, 196
+  orig: 153, 209
+  offset: 2, 2
+  index: -1
+jipai2_00000
+  rotate: false
+  xy: 220, 97
+  size: 195, 192
+  orig: 213, 210
+  offset: 6, 10
+  index: -1
+jipai2_00001
+  rotate: true
+  xy: 208, 291
+  size: 224, 216
+  orig: 237, 218
+  offset: 7, 1
+  index: -1
+jipai2_00002
+  rotate: true
+  xy: 2, 35
+  size: 229, 216
+  orig: 247, 218
+  offset: 6, 1
+  index: -1
+jipai2_00003
+  rotate: false
+  xy: 426, 307
+  size: 200, 208
+  orig: 234, 235
+  offset: 18, 14
+  index: -1
+jipai2_00004
+  rotate: false
+  xy: 2, 266
+  size: 204, 249
+  orig: 218, 278
+  offset: 7, 15
+  index: -1
+jipai2_00005
+  rotate: true
+  xy: 417, 13
+  size: 141, 139
+  orig: 177, 177
+  offset: 18, 19
+  index: -1
+jipai2_00006
+  rotate: true
+  xy: 220, 2
+  size: 93, 92
+  orig: 121, 120
+  offset: 14, 14
+  index: -1
+jipai2_00007
+  rotate: false
+  xy: 2, 17
+  size: 16, 16
+  orig: 64, 64
+  offset: 24, 24
+  index: -1
